@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhia-gharsallaoui
 - 👀 I’m interested in Mathematics applications in IT 
 - 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on RF projects
+- 💞️ I’m looking to collaborate on RL projects
 - 📫 How to reach me https://www.linkedin.com/in/gharsallaoui-dhia-eddine/
 
 <!---

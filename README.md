@@ -15,6 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gharsallaoui-dhia-eddine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gharsallaoui-dhia-eddine/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/dhiagharsallaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dhiagharsallaoui" height="30" width="40" /></a>
+<a href="mailto:safedhia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

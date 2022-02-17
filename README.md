@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Watervalues](https://github.com/dhia-gharsallaoui/watervalues)
 
-- 🌱 I’m currently learning **R advanced Programming**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **Reinforcement Learning Projects**
 

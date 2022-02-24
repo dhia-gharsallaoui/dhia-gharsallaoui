@@ -4,8 +4,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dhia-gharsallaoui&label=Profile%20views&color=0e75b6&style=flat" alt="dhia-gharsallaoui" /> </p>
 
 
-- 🔭 I’m currently working on [Watervalues](https://github.com/dhia-gharsallaoui/watervalues)
-
 - 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **Reinforcement Learning Projects**

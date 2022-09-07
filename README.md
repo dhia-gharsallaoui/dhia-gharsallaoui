@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhia Gharsallaoui</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhia-gharsallaoui&label=Profile%20views&color=0e75b6&style=flat" alt="dhia-gharsallaoui" /> </p>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <h3 align="center">A passionate solution architect</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhia-gharsallaoui&label=Profile%20views&color=0e75b6&style=flat" alt="dhia-gharsallaoui" /> </p>
 
 - 🌱 I’m currently learning **golang, spark and scala**
 

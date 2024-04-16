@@ -5,7 +5,7 @@
 <h3 align="center">A passionate solution architect</h3>
 
 
-- 🌱 I’m currently learning **golang, spark and scala**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **golang projects**
 

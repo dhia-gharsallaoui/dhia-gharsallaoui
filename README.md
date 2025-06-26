@@ -5,7 +5,7 @@
 <h3 align="center">A passionate solution architect</h3>
 
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently working on **DeFi** and **Blockchain** projects
 
 - 👯 I’m looking to collaborate on **golang projects**
 
